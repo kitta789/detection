@@ -1,3 +1,0 @@
-streamlit
-PIL
-opencv-python
